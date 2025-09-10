@@ -10,7 +10,8 @@
       "/content/cititest/placeholders:/placeholders.json",
       "/content/cititest/products/recommended-products:/products/recommended-products.json",
       "/content/cititest/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/",
+      "/phones:/content/cititest/us/en/phones"
     ],
     "includes": [
       "/content/cititest",
